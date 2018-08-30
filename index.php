@@ -4,6 +4,6 @@
 <<<<<<< HEAD
 echo "Olá Mundo 456!";
 
-echo "Olá Udemye Hcode!";
+echo "Olá Udemy e Hcode!";
 
 ?>
